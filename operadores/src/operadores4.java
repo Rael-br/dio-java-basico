@@ -1,4 +1,4 @@
-public class operadores4 {
+public class Operadores4 {
     public static void main(String[] args) {
         //int numero = 5;
         //x repeticao

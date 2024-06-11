@@ -1,4 +1,4 @@
-public class operadores7 {
+public class Operadores7 {
     public static void main(String[] args) {
         boolean condicao1 = true;
 

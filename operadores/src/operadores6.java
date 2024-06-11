@@ -1,4 +1,4 @@
-public class operadores6 {
+public class Operadores6 {
     public static void main(String[] args) {
         String nomeUm = "Israel";
         String nomeDois = new String("Israel");

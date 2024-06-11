@@ -1,4 +1,4 @@
-public class operadores5 {
+public class Operadores5 {
     public static void main(String[] args) {
         int a, b;
 
