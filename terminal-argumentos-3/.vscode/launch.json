@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMes",
+            "request": "launch",
+            "mainClass": "AboutMes",
+            "projectName": "terminal-argumentos-3_82aee95"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "ISRAEL",
+                "CHACON",
+                "21",
+                "1.73"
+            ]
+        }
+    ]
+}
